@@ -2,11 +2,11 @@ const fs = require('fs');
 const mongoose = require('mongoose'); // Pastikan mongoose sudah di-install
 
 // Variabel global
-global.creator = 'PanzNgen'; // nama Anda
+global.creator = 'Xydlan'; // nama Anda
 global.MONGO_DB_URI = "mongodb+srv://PanzNgen:PanzNgen%23051@cluster0.kqugv.mongodb.net/?retryWrites=true&w=majority"; // String koneksi yang sudah di-encode
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10"; // isi apa saja bebas
-global.your_email = "panzngen@gmail.com"; // email
-global.email_password = "vvbv vhmx eudk zllv"; // password aplikasi email
+global.your_email = "dheriap248@gmail.com"; // email
+global.email_password = "xydlan lux official"; // password aplikasi email
 global.limitCount = 10000;
 global.YOUR_PORT = 8000; // Typo diperbaiki
 
