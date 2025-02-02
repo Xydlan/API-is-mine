@@ -3,7 +3,7 @@ const mongoose = require('mongoose'); // Pastikan mongoose sudah di-install
 
 // Variabel global
 global.creator = 'Xydlan'; // nama Anda
-global.MONGO_DB_URI = "mongodb+srv://PanzNgen:PanzNgen%23051@cluster0.kqugv.mongodb.net/?retryWrites=true&w=majority"; // String koneksi yang sudah di-encode
+global.MONGO_DB_URI = "mongodb+srv://Xydlan:VLKlw4XkEQQhu1sW@cluster0.m2xjo.mongodb.net/?retryWrites=true&w=majority"; // String koneksi yang sudah di-encode
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10"; // isi apa saja bebas
 global.your_email = "dheriap248@gmail.com"; // email
 global.email_password = "xydlan lux official"; // password aplikasi email
